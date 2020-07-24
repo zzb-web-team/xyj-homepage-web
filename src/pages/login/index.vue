@@ -50,7 +50,7 @@
                     <div class="item_p  item_p_active1">
                         <p class="p1"> {{$t("index.banner1_nav1")}}</p>
                         <p class="p2"> {{$t("index.banner1_nav2")}}</p>
-                        <p class="p3"> {{$t("index.banner1_nav3")}}</p>
+                        <!-- <p class="p3"> {{$t("index.banner1_nav3")}}</p> -->
                     </div>
 
                 </div>

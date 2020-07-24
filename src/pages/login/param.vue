@@ -10,7 +10,7 @@
             <div class="item_top">
                 <div class="text">
                     <div class="h2">{{$t("param.banner1_nav2")}}</div>
-                    <div class="text_con">{{$t("param.banner1_nav3")}}</div>
+                    <!-- <div class="text_con">{{$t("param.banner1_nav3")}}</div> -->
                 </div>
             </div>
             <div class="item_top_middle">
